@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+ed500fa9-70b1-4d52-9e73-d8d512448901	TCGA-AD-6901-01Z-00-DX1.0a69c0b5-6238-4c1a-bbbd-ea743bf6fc98.svs	019662e78859da5c7cddc01af02fd5a1	117149885	validated
